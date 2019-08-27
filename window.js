@@ -53,7 +53,7 @@ function drawChart() {
     type: 'doughnut',
     data: {
       labels: [
-        'Tempo do Usuário (ms)',
+        'Tempo de Aplicações (ms)',
         'Tempo do Sistema (ms)',
         'Tempo Ocioso (ms)'
       ],
